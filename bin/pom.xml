@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.xoff.ang</groupId>
 	<artifactId>server-ang</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>server-ang</name>
 	<description>angular spring boot</description>
